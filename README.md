@@ -1,2 +1,2 @@
 # Portfolio Website
-This is my portfolio Website, which i built using HTML and CSS.
+This is my portfolio website, which i built using HTML and CSS.
