@@ -72,6 +72,11 @@ h3{
     float: left;
     margin-right: 30px;
 }
+.python-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
 .freelance{
     margin: 100px auto;
 }
@@ -113,7 +118,13 @@ h3{
   a:hover{
     color: #0F0F0F;
   }
-  .copyright{
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.copyright{
     color: #0F0F0F;
     font-size: 0.75rem;
     padding: 20px auto;
